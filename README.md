@@ -2,8 +2,8 @@
 IMT_Graduation project
 # Components 
 
-1.Atmga32 MCU
-2.Mobile app
+1. Atmga32 MCU
+2. Mobile app
 3.Bluetooth Module
 4.Solenoid
 5.Leds
